@@ -1,0 +1,4 @@
+
+--- IAM Policy Analyzer ---
+
+No policies with full wildcard access detected.

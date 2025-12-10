@@ -1,0 +1,19 @@
+
+--- Cost Optimization Checker ---
+
+## 1. Unattached Elastic IPs
+✓ No unattached EIPs.
+
+-------------------------------------------------------
+
+## 2. Unused EBS Volumes
+✓ No unused EBS volumes.
+
+-------------------------------------------------------
+
+## 3. Stopped EC2 Instances
+✓ No stopped instances.
+
+=======================================================
+ Total Estimated Monthly Savings: $0.00
+=======================================================

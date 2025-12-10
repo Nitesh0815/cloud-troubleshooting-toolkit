@@ -1,0 +1,27 @@
+
+EC2 Connectivity Check: i-0a88b4214c12dcf0a (tcp/22)
+------------------------------------------------------------
+Instance State: running | Public: True | Subnet: subnet-06eda2b2fc28658c2
+------------------------------------------------------------
+
+1. Security Groups
+SG sg-03737c6c59584b17f allows inbound tcp/22 from anywhere (0.0.0.0/0).
+
+------------------------------------------------------------
+
+2. Network ACL
+NACL: acl-0b2a05f5a40f2d407
+
+Ingress:
+Ingress: Rule 100 ALLOWS traffic.
+
+Egress:
+Egress: Rule 100 ALLOWS traffic.
+
+------------------------------------------------------------
+
+3. Route Table
+No route table found for this subnet.
+
+Done.
+
