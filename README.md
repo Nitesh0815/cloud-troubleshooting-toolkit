@@ -33,7 +33,7 @@ Follow these steps to set up the project locally:
 
 1.  **Clone the repository:**
     ```sh
-    git clone [Your-Repo-Link-Here]
+    git clone https://github.com/Nitesh0815/cloud-troubleshooting-toolkit.git
     cd cloud-troubleshooting-toolkit
     ```
 
